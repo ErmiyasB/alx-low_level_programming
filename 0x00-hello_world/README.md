@@ -1,0 +1,1 @@
+gcc -E $CFILE -o c -preprocessor and save the file into another
